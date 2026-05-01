@@ -8,52 +8,85 @@ Building practical ML, RAG, and local LLM systems for real-world products.
 
 Sri Lanka · Netronk Innovations
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9AE6B4&center=true&vCenter=true&width=680&lines=Hybrid+AI+Systems+Engineer;ML+%2B+RAG+%2B+Local+LLM+Builder;Full-Stack+AI+Product+Developer" alt="Typing intro" />
+
+<br/>
+
+<a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat&logo=github&logoColor=E2E8F0" alt="GitHub" /></a>
+<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/Email-0B1220?style=flat&logo=gmail&logoColor=E2E8F0" alt="Email" /></a>
+<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat&logo=linkedin&logoColor=E2E8F0" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Netronk%20Innovations-0B1220?style=flat&logo=vercel&logoColor=E2E8F0" alt="Netronk Innovations" />
+
 </div>
 
 <hr/>
 
-## Connect With Me
-- GitHub: https://github.com/Luka-Ar
-- Email: luka@netronk.com
-- LinkedIn: https://linkedin.com/in/your-link
-- Company: Netronk Innovations
+<div align="center">
 
-<hr/>
+<table>
+	<tr>
+		<td width="50%" valign="top">
 
-## About Me
-I design and build applied AI systems that combine machine learning, RAG, and local LLMs with full-stack product engineering. My focus is practical industrial and operational intelligence, delivered through reliable inference pipelines and clean dashboards that turn model output into decisions.
+### About
 
-Key building blocks:
-- Machine Learning and Scikit-learn pipelines
-- FastAPI services and production-grade APIs
-- RAG workflows with ChromaDB
-- Local LLM inference with Ollama and Gemma
-- Next.js dashboards for decision support
+Applied AI engineer focused on practical ML, RAG, and local LLM systems with full-stack product delivery. I build industrial and operational intelligence platforms that turn data into clear decisions.
+
+		</td>
+		<td width="50%" valign="top">
+
+### AI Systems Stack
+
+ML pipelines · FastAPI services · RAG with ChromaDB · Local LLMs via Ollama/Gemma · Next.js dashboards
+
+		</td>
+	</tr>
+</table>
+
+</div>
 
 <hr/>
 
 ## Featured Project
-**Predictive Maintenance Copilot — Hybrid Industrial AI Decision Support System**
+
+<div align="center">
+
+<table>
+	<tr>
+		<td width="60%" valign="top">
+
+### Predictive Maintenance Copilot
+**Hybrid Industrial AI Decision Support System**
 
 Repository: https://github.com/Luka-Ar/predictive-maintenance-copilot
 
-Hybrid ML + RAG + local LLM system using FastAPI, Next.js, ChromaDB, Ollama, and Gemma to transform machine sensor data into:
-- Failure-risk predictions
-- Condition alerts
-- Knowledge-grounded explanations
-- Recommended maintenance actions
+Transforms machine sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended maintenance actions.
 
-Core modules:
-- ML prediction engine for risk scoring
-- FastAPI backend for model inference and orchestration
-- Next.js dashboard for operational visibility
-- Local Gemma via Ollama for on-device reasoning
-- ChromaDB RAG knowledge system
-- Industrial decision-support flows with recommended actions
+		</td>
+		<td width="40%" valign="top">
+
+### Feature Matrix
+
+| Module | Stack |
+| --- | --- |
+| ML Engine | Python · Scikit-learn |
+| API Layer | FastAPI |
+| Dashboard | Next.js |
+| Local LLM | Gemma via Ollama |
+| RAG Store | ChromaDB |
+| Outputs | Alerts · Actions |
+
+		</td>
+	</tr>
+</table>
+
+</div>
 
 <hr/>
 
 ## Technology Stack
+
+<div align="center">
+
 **AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=FDE68A)
@@ -81,25 +114,69 @@ Core modules:
 ![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=flat&logo=github&logoColor=FDE68A)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-0B1220?style=flat&logo=visualstudiocode&logoColor=FDE68A)
 
-<hr/>
-
-## Current Focus
-- Gemma fine-tuning journey and evaluation
-- Local LLM systems with safety and reliability checks
-- RAG architecture and retrieval quality
-- Industrial AI products for operational intelligence
-- AI automation systems for end-to-end workflows
+</div>
 
 <hr/>
 
-## GitHub Stats
+## Building Now
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&theme=github_dark&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com?user=Luka-Ar&theme=github-dark-blue&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luka-Ar&theme=github-compact&hide_border=true)
+<div align="center">
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+
+### 2026 Focus
+
+| Area | Focus |
+| --- | --- |
+| Gemma | Fine-tuning and evaluation |
+| RAG Systems | Retrieval quality and grounding |
+| Local LLMs | Reliable on-device inference |
+| Industrial AI | Decision support products |
+| Automation | End-to-end AI workflows |
+
+		</td>
+		<td width="50%" valign="top">
+
+### Current Focus Meter
+
+| Track | Progress |
+| --- | --- |
+| Gemma Fine-Tuning | ███████░░░ |
+| RAG Architecture | ████████░░ |
+| Local LLM Engineering | ███████░░░ |
+| Industrial AI | ████████░░ |
+| Automation Platforms | ██████░░░░ |
+
+		</td>
+	</tr>
+</table>
+
+</div>
+
+<hr/>
+
+## Live GitHub Visuals
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Luka-Ar&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luka-Ar&theme=github-compact&hide_border=true" alt="Activity Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Luka-Ar&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+
+</div>
 
 <hr/>
 
 ## Collaboration
+
 Open to collaboration on AI products, applied ML systems, RAG tools, automation platforms, and full-stack AI software.
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Luka-Ar&style=flat&color=0B1220&label=Profile%20Views" alt="Profile Views" />
+</div>
