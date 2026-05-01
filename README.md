@@ -1,21 +1,16 @@
 <div align="center">
 
-# Luka Aravinda
+<img src="https://capsule-render.vercel.app/api?type=rect&color=393636&height=220&section=header&text=Luka%20Aravinda&fontColor=EFEBDA&fontAlign=50&fontAlignY=40&fontSize=48&desc=AI%20Engineer%20%7C%20Hybrid%20AI%20Systems%20Builder%20%7C%20Full-Stack%20AI%20Product%20Developer&descAlign=50&descAlignY=70&descSize=18" alt="Hero Banner" />
 
-**AI Engineer | Hybrid AI Systems Builder | Full-Stack AI Product Developer**
-
-Building practical ML, RAG, and local LLM systems for real-world products.
-
-Sri Lanka · Netronk Innovations
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=F14C2F&center=true&vCenter=true&width=720&lines=Hybrid+AI+Systems+Engineer;ML+%2B+RAG+%2B+Local+LLM+Builder;Full-Stack+AI+Product+Developer" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=F14C2F&center=true&vCenter=true&width=760&lines=Premium+Hybrid+AI+Systems;ML+%2B+RAG+%2B+Local+LLM+Products;Industrial+AI+Decision+Support" alt="Typing intro" />
 
 <br/>
 
-<a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=EFEBDA" alt="GitHub" /></a>
-<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/Email-393636?style=flat&logo=gmail&logoColor=EFEBDA" alt="Email" /></a>
-<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=EFEBDA" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=EFEBDA" alt="Netronk Innovations" />
+<img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=EFEBDA" alt="Sri Lanka" />
+<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
+<a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=EFEBDA" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=EFEBDA" alt="LinkedIn" /></a>
 
 </div>
 
@@ -25,18 +20,18 @@ Sri Lanka · Netronk Innovations
 
 <table>
 	<tr>
-		<td width="52%" valign="top">
+		<td width="55%" valign="top">
 
-### About
+### AI Systems
 
-Applied AI engineer focused on practical ML, RAG, and local LLM systems with full-stack product delivery. I build industrial and operational intelligence platforms that turn data into clear decisions.
+Practical ML, RAG, and local LLM systems delivered as full-stack products. Focused on industrial intelligence, grounded reasoning, and reliable decision support.
 
 		</td>
-		<td width="48%" valign="top">
+		<td width="45%" valign="top">
 
-### AI Systems Stack
+### Current Mission
 
-ML pipelines · FastAPI services · RAG with ChromaDB · Local LLMs via Ollama/Gemma · Next.js dashboards
+Industrial AI platforms that combine sensor intelligence, retrieval-augmented knowledge, and local LLM reasoning into trusted operational actions.
 
 		</td>
 	</tr>
@@ -46,7 +41,7 @@ ML pipelines · FastAPI services · RAG with ChromaDB · Local LLMs via Ollama/G
 
 <hr/>
 
-## Building Now
+## 2026 Mission Control
 
 <div align="center">
 
@@ -54,35 +49,38 @@ ML pipelines · FastAPI services · RAG with ChromaDB · Local LLMs via Ollama/G
 	<tr>
 		<td width="33%" valign="top">
 
-### 2026 Focus
+### Strategic Focus
 
-| Area | Focus |
+| Focus Area | Status |
 | --- | --- |
-| Gemma | Fine-tuning and evaluation |
-| RAG Systems | Retrieval quality and grounding |
-| Local LLMs | Reliable on-device inference |
-
-		</td>
-		<td width="33%" valign="top">
-
-### Industrial AI
-
-| Track | Priority |
-| --- | --- |
-| Predictive Systems | High |
-| Decision Support | High |
-| Automation | Medium |
+| Gemma Fine-Tuning | Active |
+| RAG Architecture | Active |
+| Local LLM Systems | Active |
+| Industrial AI | Core |
 
 		</td>
 		<td width="34%" valign="top">
 
-### Current Focus Meter
+### Engineering Intensity
 
-| Track | Progress |
+| Track | Level |
 | --- | --- |
-| Gemma Fine-Tuning | ███████░░░ |
-| RAG Architecture | ████████░░ |
-| Local LLM Engineering | ███████░░░ |
+| RAG Quality | ████████░░ |
+| Local LLM Ops | ███████░░░ |
+| ML Reliability | ████████░░ |
+| Product UX | ███████░░░ |
+
+		</td>
+		<td width="33%" valign="top">
+
+### Industrial Intelligence Framework
+
+| Layer | Purpose |
+| --- | --- |
+| Signals | Sensor and telemetry capture |
+| Models | Prediction and risk scoring |
+| Knowledge | Grounded retrieval with RAG |
+| Actions | Alerts and maintenance actions |
 
 		</td>
 	</tr>
@@ -92,30 +90,30 @@ ML pipelines · FastAPI services · RAG with ChromaDB · Local LLMs via Ollama/G
 
 <hr/>
 
-## Featured Project
+## Flagship Product
 
 <div align="center">
 
 <table>
 	<tr>
-		<td width="58%" valign="top">
+		<td width="60%" valign="top">
 
 ### Predictive Maintenance Copilot
 **Hybrid Industrial AI Decision Support System**
 
 Repository: https://github.com/Luka-Ar/predictive-maintenance-copilot
 
-Transforms machine sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended maintenance actions.
+Industrial AI platform that transforms sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended actions.
 
 		</td>
-		<td width="42%" valign="top">
+		<td width="40%" valign="top">
 
-### Feature Matrix
+### System Capability Matrix
 
-| Module | Stack |
+| Capability | Implementation |
 | --- | --- |
 | ML Engine | Python · Scikit-learn |
-| API Layer | FastAPI |
+| API Core | FastAPI |
 | Dashboard | Next.js |
 | Local LLM | Gemma via Ollama |
 | RAG Store | ChromaDB |
@@ -125,13 +123,27 @@ Transforms machine sensor data into failure-risk predictions, condition alerts, 
 	</tr>
 </table>
 
+<table>
+	<tr>
+		<td width="100%" valign="top">
+
+### Architecture Flow
+
+Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Actionable Maintenance
+
+		</td>
+	</tr>
+</table>
+
 </div>
 
 <hr/>
 
-## AI/ML Stack
+## Tech Arsenal
 
 <div align="center">
+
+**AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-393636?style=flat&logo=python&logoColor=F14C2F)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-393636?style=flat&logo=scikitlearn&logoColor=F14C2F)
@@ -141,11 +153,7 @@ Transforms machine sensor data into failure-risk predictions, condition alerts, 
 ![Ollama](https://img.shields.io/badge/Ollama-393636?style=flat&logo=ollama&logoColor=F14C2F)
 ![Gemma](https://img.shields.io/badge/Gemma-393636?style=flat&logo=google&logoColor=F14C2F)
 
-</div>
-
-## Full-Stack Engineering
-
-<div align="center">
+**Full-Stack Engineering**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-393636?style=flat&logo=fastapi&logoColor=F14C2F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-393636?style=flat&logo=typescript&logoColor=F14C2F)
@@ -157,7 +165,7 @@ Transforms machine sensor data into failure-risk predictions, condition alerts, 
 
 <hr/>
 
-## Live GitHub Visuals
+## GitHub Intelligence
 
 <div align="center">
 
@@ -173,11 +181,12 @@ Transforms machine sensor data into failure-risk predictions, condition alerts, 
 
 <hr/>
 
-## Contact
+## Collaboration
+
+Open to collaboration on AI products, applied ML systems, RAG tools, automation platforms, and full-stack AI software.
 
 <div align="center">
 
-<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=Luka-Ar&style=flat&color=F14C2F&label=Profile%20Views" alt="Profile Views" />
 
 </div>
