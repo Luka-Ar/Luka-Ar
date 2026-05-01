@@ -1,12 +1,8 @@
+<p align="center">
+	<img src="./assets/github-banner.svg" alt="Luka Aravinda — AI Engineer Banner" width="100%" />
+</p>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=393636&height=240&section=header&text=Luka%20Aravinda&fontColor=EFEBDA&fontAlign=50&fontAlignY=40&fontSize=52&desc=AI%20Engineer%20%7C%20Hybrid%20AI%20Systems%20Builder%20%7C%20Full-Stack%20AI%20Product%20Developer&descAlign=50&descAlignY=72&descSize=18" alt="Hero Banner" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=18&section=header" alt="Accent Banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=F14C2F&center=true&vCenter=true&width=760&lines=Premium+Hybrid+AI+Systems;ML+%2B+RAG+%2B+Local+LLM+Products;Industrial+AI+Decision+Support" alt="Typing intro" />
-
-<br/>
 
 <img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=EFEBDA" alt="Netronk Innovations" />
 <img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=EFEBDA" alt="Sri Lanka" />
