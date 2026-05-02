@@ -137,8 +137,8 @@ Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Action
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&theme=dark&hide_border=true&title_color=f14c2f&icon_color=f14c2f&text_color=efebda&bg_color=393636" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&theme=dark&hide_border=true&title_color=f14c2f&text_color=efebda&bg_color=393636" alt="Top Languages" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&theme=dark&hide_border=true&title_color=f14c2f&icon_color=f14c2f&text_color=efebda&bg_color=393636&cache_seconds=86400&v=1" alt="GitHub Stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&theme=dark&hide_border=true&title_color=f14c2f&text_color=efebda&bg_color=393636&cache_seconds=86400&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
