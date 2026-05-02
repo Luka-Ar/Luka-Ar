@@ -2,17 +2,13 @@
 	<img src="./assets/github-banner.svg" alt="Luka Aravinda — AI Engineer Banner" width="100%" />
 </p>
 
-<p align="center">
-	<img src="./assets/contact-strip.svg" alt="Contact Strip" width="100%" />
-</p>
-
-<p align="center">
-	<a href="https://netronk.com">Netronk Innovations</a> ·
-	<a href="https://www.google.com/maps/place/Sri+Lanka">Sri Lanka</a> ·
-	<a href="mailto:luka@netronk.com">luka@netronk.com</a> ·
-	<a href="https://github.com/Luka-Ar">GitHub</a> ·
-	<a href="https://linkedin.com/in/your-link">LinkedIn</a>
-</p>
+<div align="center">
+	<a href="https://netronk.com" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">Netronk Innovations</a>
+	<a href="https://www.google.com/maps/place/Sri+Lanka" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">Sri Lanka</a>
+	<a href="mailto:luka@netronk.com" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">luka@netronk.com</a>
+	<a href="https://github.com/Luka-Ar" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">GitHub</a>
+	<a href="https://www.linkedin.com/in/lukshanar" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">LinkedIn</a>
+</div>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=10&section=header" alt="Divider" />
