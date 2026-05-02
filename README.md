@@ -2,13 +2,23 @@
 	<img src="./assets/github-banner.svg" alt="Luka Aravinda — AI Engineer Banner" width="100%" />
 </p>
 
-<div align="center">
-	<a href="https://netronk.com" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">Netronk Innovations</a>
-	<a href="https://www.google.com/maps/place/Sri+Lanka" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">Sri Lanka</a>
-	<a href="mailto:luka@netronk.com" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">luka@netronk.com</a>
-	<a href="https://github.com/Luka-Ar" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">GitHub</a>
-	<a href="https://www.linkedin.com/in/lukshanar" style="display:inline-block;margin:6px 6px;padding:8px 14px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-family:Segoe UI, Arial, sans-serif;font-size:13px;">LinkedIn</a>
-</div>
+<p align="center">
+	<a href="https://netronk.com">
+		<img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=for-the-badge&logo=vercel&logoColor=efebda&labelColor=f14c2f" alt="Netronk Innovations" />
+	</a>
+	<a href="#">
+		<img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=for-the-badge&logo=googlemaps&logoColor=efebda&labelColor=f14c2f" alt="Sri Lanka" />
+	</a>
+	<a href="mailto:luka@netronk.com">
+		<img src="https://img.shields.io/badge/Email-luka%40netronk.com-393636?style=for-the-badge&logo=gmail&logoColor=efebda&labelColor=f14c2f" alt="Email" />
+	</a>
+	<a href="https://github.com/Luka-Ar">
+		<img src="https://img.shields.io/badge/GitHub-Luka--Ar-393636?style=for-the-badge&logo=github&logoColor=efebda&labelColor=f14c2f" alt="GitHub" />
+	</a>
+	<a href="https://www.linkedin.com/in/lukshanar">
+		<img src="https://img.shields.io/badge/LinkedIn-lukshanar-393636?style=for-the-badge&logo=linkedin&logoColor=efebda&labelColor=f14c2f" alt="LinkedIn" />
+	</a>
+</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=10&section=header" alt="Divider" />
