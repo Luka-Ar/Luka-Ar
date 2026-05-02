@@ -133,17 +133,21 @@ Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Action
 </p>
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=36&section=header&text=GitHub%20Intelligence&fontColor=EFEBDA&fontSize=18" alt="GitHub Intelligence" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=36&section=header&text=Builder%20Activity&fontColor=EFEBDA&fontSize=18" alt="Builder Activity" />
 </p>
 
-<p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&theme=dark&hide_border=true&title_color=f14c2f&icon_color=f14c2f&text_color=efebda&bg_color=393636&cache_seconds=86400&v=1" alt="GitHub Stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&theme=dark&hide_border=true&title_color=f14c2f&text_color=efebda&bg_color=393636&cache_seconds=86400&v=1" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luka-Ar&theme=dark&hide_border=true&background=393636&ring=f14c2f&fire=f14c2f&currStreakLabel=efebda&sideLabels=efebda&currStreakNum=f14c2f&sideNums=f14c2f" alt="Streak Stats" />
-</p>
+<table>
+	<tr>
+		<td align="center" style="border:1px solid #f14c2f;background:#393636;color:#efebda;padding:14px 18px;border-radius:10px;">Active GitHub profile</td>
+		<td align="center" style="border:1px solid #f14c2f;background:#393636;color:#efebda;padding:14px 18px;border-radius:10px;">Building AI/ML systems</td>
+		<td align="center" style="border:1px solid #f14c2f;background:#393636;color:#efebda;padding:14px 18px;border-radius:10px;">Featured: Predictive Maintenance Copilot</td>
+		<td align="center" style="border:1px solid #f14c2f;background:#393636;color:#efebda;padding:14px 18px;border-radius:10px;">Focus: RAG · Local LLMs · Full-Stack AI</td>
+	</tr>
+</table>
+
+</div>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=10&section=header" alt="Divider" />
