@@ -137,12 +137,12 @@ Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Action
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&bg_color=393636&title_color=F14C2F&text_color=EFEBDA&icon_color=F14C2F&border_color=F14C2F" alt="GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&bg_color=393636&title_color=F14C2F&text_color=EFEBDA&border_color=F14C2F" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luka-Ar&show_icons=true&theme=dark&hide_border=true&title_color=f14c2f&icon_color=f14c2f&text_color=efebda&bg_color=393636" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Ar&layout=compact&theme=dark&hide_border=true&title_color=f14c2f&text_color=efebda&bg_color=393636" alt="Top Languages" />
 </p>
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=Luka-Ar&theme=dark&hide_border=true&background=393636&ring=F14C2F&fire=F14C2F&currStreakLabel=EFEBDA&sideLabels=EFEBDA&currStreakNum=F14C2F&sideNums=F14C2F" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Luka-Ar&theme=dark&hide_border=true&background=393636&ring=f14c2f&fire=f14c2f&currStreakLabel=efebda&sideLabels=efebda&currStreakNum=f14c2f&sideNums=f14c2f" alt="Streak Stats" />
 </p>
 
 <p align="center">
