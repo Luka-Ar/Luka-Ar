@@ -2,46 +2,29 @@
 	<img src="./assets/github-banner.svg" alt="Luka Aravinda — AI Engineer Banner" width="100%" />
 </p>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=EFEBDA" alt="Netronk Innovations" />
-<img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=EFEBDA" alt="Sri Lanka" />
-<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
-<a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=EFEBDA" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=EFEBDA" alt="LinkedIn" /></a>
-
-</div>
+<p align="center">
+	<a href="https://netronk.com"><img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=EFEBDA" alt="Netronk Innovations" /></a>
+	<a href="https://www.google.com/maps/place/Sri+Lanka"><img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=EFEBDA" alt="Sri Lanka" /></a>
+	<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
+	<a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=EFEBDA" alt="GitHub" /></a>
+	<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=EFEBDA" alt="LinkedIn" /></a>
+</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=10&section=header" alt="Divider" />
 </p>
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=36&section=header&text=AI%20Systems&fontColor=EFEBDA&fontSize=18" alt="AI Systems" />
+  <img src="./assets/ai-systems-panel.svg" alt="AI Systems Panel" width="100%" />
 </p>
 
-<div align="center">
-
-<table>
-	<tr>
-		<td width="55%" valign="top">
-
-### Premium Positioning
-
-Practical ML, RAG, and local LLM systems delivered as full-stack products for industrial intelligence and operational decision support.
-
-		</td>
-		<td width="45%" valign="top">
-
-### Core Identity
-
-AI Engineer · Hybrid AI Systems Builder · ML + RAG Developer · Local LLM Builder · Full-Stack Product Engineer
-
-		</td>
-	</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://netronk.com"><img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=F14C2F" alt="Netronk Innovations" /></a>
+  <a href="https://www.google.com/maps/place/Sri+Lanka"><img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=F14C2F" alt="Sri Lanka" /></a>
+  <a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
+  <a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=F14C2F" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=F14C2F" alt="LinkedIn" /></a>
+</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=10&section=header" alt="Divider" />
@@ -53,46 +36,21 @@ AI Engineer · Hybrid AI Systems Builder · ML + RAG Developer · Local LLM Buil
 
 <div align="center">
 
-<table>
-	<tr>
-		<td width="33%" valign="top">
+**Strategic Focus**
 
-### Strategic Focus
+Gemma Fine-Tuning · RAG Architecture · Local LLM Systems · Industrial AI
 
-| Focus Area | Status |
-| --- | --- |
-| Gemma Fine-Tuning | Active |
-| RAG Architecture | Active |
-| Local LLM Systems | Active |
-| Industrial AI | Core |
+<br/>
 
-		</td>
-		<td width="34%" valign="top">
+**Engineering Intensity**
 
-### Engineering Intensity
+RAG Quality ████████░░ · Local LLM Ops ███████░░░ · ML Reliability ████████░░ · Product UX ███████░░░
 
-| Track | Level |
-| --- | --- |
-| RAG Quality | ████████░░ |
-| Local LLM Ops | ███████░░░ |
-| ML Reliability | ████████░░ |
-| Product UX | ███████░░░ |
+<br/>
 
-		</td>
-		<td width="33%" valign="top">
+**Industrial Intelligence Framework**
 
-### Industrial Intelligence Framework
-
-| Layer | Purpose |
-| --- | --- |
-| Signals | Sensor and telemetry capture |
-| Models | Prediction and risk scoring |
-| Knowledge | Grounded retrieval with RAG |
-| Actions | Alerts and maintenance actions |
-
-		</td>
-	</tr>
-</table>
+Signals → Models → Knowledge → Actions
 
 </div>
 
@@ -106,10 +64,6 @@ AI Engineer · Hybrid AI Systems Builder · ML + RAG Developer · Local LLM Buil
 
 <div align="center">
 
-<table>
-	<tr>
-		<td width="60%" valign="top">
-
 ### Predictive Maintenance Copilot
 **Hybrid Industrial AI Decision Support System**
 
@@ -117,35 +71,27 @@ Repository: https://github.com/Luka-Ar/predictive-maintenance-copilot
 
 Industrial AI platform that transforms sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended actions.
 
-		</td>
-		<td width="40%" valign="top">
+<br/>
 
-### System Capability Matrix
+**System Capability Matrix**
 
-| Capability | Implementation |
-| --- | --- |
-| ML Engine | Python · Scikit-learn |
-| API Core | FastAPI |
-| Dashboard | Next.js |
-| Local LLM | Gemma via Ollama |
-| RAG Store | ChromaDB |
-| Outputs | Alerts · Actions |
+ML Engine: Python · Scikit-learn
 
-		</td>
-	</tr>
-</table>
+API Core: FastAPI
 
-<table>
-	<tr>
-		<td width="100%" valign="top">
+Dashboard: Next.js
 
-### Architecture Flow
+Local LLM: Gemma via Ollama
+
+RAG Store: ChromaDB
+
+Outputs: Alerts · Actions
+
+<br/>
+
+**Architecture Flow**
 
 Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Actionable Maintenance
-
-		</td>
-	</tr>
-</table>
 
 </div>
 

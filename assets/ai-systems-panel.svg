@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="AI Systems panel">
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#efebda" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f14c2f" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#f14c2f" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="#393636" />
+  <rect width="1200" height="260" rx="18" fill="url(#grid)" />
+
+  <rect x="36" y="28" width="1128" height="4" fill="url(#accent)" />
+  <rect x="36" y="228" width="1128" height="4" fill="url(#accent)" />
+
+  <circle cx="1060" cy="86" r="36" fill="#f14c2f" fill-opacity="0.08" />
+  <circle cx="1060" cy="86" r="18" fill="#f14c2f" fill-opacity="0.2" filter="url(#glow)" />
+
+  <text x="60" y="96" fill="#efebda" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">AI Systems</text>
+  <text x="60" y="126" fill="#efebda" font-family="Segoe UI, Arial, sans-serif" font-size="14" opacity="0.9">Branded AI engineering stack for practical, grounded intelligence</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#efebda">
+    <rect x="60" y="155" width="200" height="34" rx="8" fill="#393636" stroke="#f14c2f" stroke-opacity="0.8" />
+    <text x="74" y="176">ML + RAG</text>
+
+    <rect x="278" y="155" width="220" height="34" rx="8" fill="#393636" stroke="#f14c2f" stroke-opacity="0.8" />
+    <text x="292" y="176">Local LLMs</text>
+
+    <rect x="516" y="155" width="260" height="34" rx="8" fill="#393636" stroke="#f14c2f" stroke-opacity="0.8" />
+    <text x="530" y="176">Industrial Intelligence</text>
+
+    <rect x="794" y="155" width="310" height="34" rx="8" fill="#393636" stroke="#f14c2f" stroke-opacity="0.8" />
+    <text x="808" y="176">Full-Stack AI Products</text>
+  </g>
+
+  <path d="M 950 40 L 1128 40" stroke="#f14c2f" stroke-opacity="0.35" stroke-width="2" />
+  <path d="M 950 210 L 1128 210" stroke="#f14c2f" stroke-opacity="0.35" stroke-width="2" />
+</svg>
