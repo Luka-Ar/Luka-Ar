@@ -66,72 +66,39 @@ Signals → Models → Knowledge → Actions
 </p>
 
 <div align="center">
+# Predictive Maintenance Copilot
+### Hybrid Industrial AI Decision Support System
 
-<table>
-	<tr>
-		<td style="border:1px solid #f14c2f;background:#393636;color:#efebda;padding:18px 20px;border-radius:12px;">
-			<div style="font-size:18px;font-weight:700;">Predictive Maintenance Copilot</div>
-			<div style="font-size:13px;opacity:0.9;margin-top:4px;">Hybrid Industrial AI Decision Support System</div>
+<p align="center">
+	<a href="https://github.com/Luka-Ar/predictive-maintenance-copilot">
+		<img src="https://img.shields.io/badge/Repository-Predictive%20Maintenance%20Copilot-393636?style=for-the-badge&logo=github&logoColor=efebda&labelColor=f14c2f" alt="Repository" />
+	</a>
+</p>
 
-			<div style="margin-top:12px;">
-				<a href="https://github.com/Luka-Ar/predictive-maintenance-copilot" style="display:inline-block;padding:6px 12px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-size:12px;">View Repository</a>
-			</div>
+Industrial AI platform transforming sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended actions.
 
-			<div style="margin-top:12px;font-size:13px;">
-				Industrial AI platform transforming sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended actions.
-			</div>
+### Feature Stack
+![ML%20Engine](https://img.shields.io/badge/ML%20Engine-393636?style=flat-square&logo=python&logoColor=efebda&labelColor=f14c2f)
+![FastAPI](https://img.shields.io/badge/FastAPI-393636?style=flat-square&logo=fastapi&logoColor=efebda&labelColor=f14c2f)
+![Next.js](https://img.shields.io/badge/Next.js-393636?style=flat-square&logo=nextdotjs&logoColor=efebda&labelColor=f14c2f)
+![Gemma](https://img.shields.io/badge/Gemma-393636?style=flat-square&logo=google&logoColor=efebda&labelColor=f14c2f)
+![RAG](https://img.shields.io/badge/RAG-393636?style=flat-square&logo=databricks&logoColor=efebda&labelColor=f14c2f)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-393636?style=flat-square&logo=vectorworks&logoColor=efebda&labelColor=f14c2f)
+![Alerts](https://img.shields.io/badge/Alerts-393636?style=flat-square&logo=bell&logoColor=efebda&labelColor=f14c2f)
+![Actions](https://img.shields.io/badge/Actions-393636?style=flat-square&logo=checkmarx&logoColor=efebda&labelColor=f14c2f)
 
-			<div style="height:1px;background:#f14c2f;opacity:0.5;margin:14px 0;"></div>
+### Capability Matrix
+| Layer | Technology |
+|------|-------------|
+| Prediction Engine | Scikit-learn |
+| API Layer | FastAPI |
+| Dashboard | Next.js |
+| Local LLM | Gemma via Ollama |
+| Knowledge Store | ChromaDB |
+| Output Layer | Alerts + Actions |
 
-			<div style="margin-bottom:8px;font-weight:600;">Feature Badges</div>
-			<div>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">ML Engine</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">FastAPI</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Next.js</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Gemma</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">RAG</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">ChromaDB</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Alerts</span>
-				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Actions</span>
-			</div>
-
-			<div style="height:1px;background:#f14c2f;opacity:0.5;margin:14px 0;"></div>
-
-			<div style="margin-bottom:8px;font-weight:600;">Capability Grid</div>
-			<table>
-				<tr>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Prediction Engine</td>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Scikit-learn</td>
-				</tr>
-				<tr>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">API Layer</td>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">FastAPI</td>
-				</tr>
-				<tr>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Dashboard</td>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Next.js</td>
-				</tr>
-				<tr>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Local LLM</td>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Gemma via Ollama</td>
-				</tr>
-				<tr>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Knowledge Store</td>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">ChromaDB</td>
-				</tr>
-				<tr>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Output Layer</td>
-					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Alerts + Actions</td>
-				</tr>
-			</table>
-
-			<div style="height:1px;background:#f14c2f;opacity:0.5;margin:14px 0;"></div>
-
-			<div style="font-weight:600;">Architecture Flow</div>
-			<div style="margin-top:6px;font-size:13px;">Sensor Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Maintenance Actions</div>
-		</td>
-	</tr>
-</table>
+### Architecture Flow
+Sensor Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Maintenance Actions
 
 </div>
 
