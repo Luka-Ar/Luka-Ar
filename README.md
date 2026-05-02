@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-	<a href="https://netronk.com"><img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=EFEBDA" alt="Netronk Innovations" /></a>
-	<a href="https://www.google.com/maps/place/Sri+Lanka"><img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=EFEBDA" alt="Sri Lanka" /></a>
-	<a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
-	<a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=EFEBDA" alt="GitHub" /></a>
-	<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=EFEBDA" alt="LinkedIn" /></a>
+	<img src="./assets/contact-strip.svg" alt="Contact Strip" width="100%" />
+</p>
+
+<p align="center">
+	<a href="https://netronk.com">Netronk Innovations</a> ·
+	<a href="https://www.google.com/maps/place/Sri+Lanka">Sri Lanka</a> ·
+	<a href="mailto:luka@netronk.com">luka@netronk.com</a> ·
+	<a href="https://github.com/Luka-Ar">GitHub</a> ·
+	<a href="https://linkedin.com/in/your-link">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -18,13 +22,6 @@
   <img src="./assets/ai-systems-panel.svg" alt="AI Systems Panel" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://netronk.com"><img src="https://img.shields.io/badge/Netronk%20Innovations-393636?style=flat&logo=vercel&logoColor=F14C2F" alt="Netronk Innovations" /></a>
-  <a href="https://www.google.com/maps/place/Sri+Lanka"><img src="https://img.shields.io/badge/Sri%20Lanka-393636?style=flat&logo=googlemaps&logoColor=F14C2F" alt="Sri Lanka" /></a>
-  <a href="mailto:luka@netronk.com"><img src="https://img.shields.io/badge/luka%40netronk.com-393636?style=flat&logo=gmail&logoColor=F14C2F" alt="Email" /></a>
-  <a href="https://github.com/Luka-Ar"><img src="https://img.shields.io/badge/GitHub-393636?style=flat&logo=github&logoColor=F14C2F" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-393636?style=flat&logo=linkedin&logoColor=F14C2F" alt="LinkedIn" /></a>
-</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=F14C2F&height=10&section=header" alt="Divider" />
