@@ -67,34 +67,71 @@ Signals → Models → Knowledge → Actions
 
 <div align="center">
 
-### Predictive Maintenance Copilot
-**Hybrid Industrial AI Decision Support System**
+<table>
+	<tr>
+		<td style="border:1px solid #f14c2f;background:#393636;color:#efebda;padding:18px 20px;border-radius:12px;">
+			<div style="font-size:18px;font-weight:700;">Predictive Maintenance Copilot</div>
+			<div style="font-size:13px;opacity:0.9;margin-top:4px;">Hybrid Industrial AI Decision Support System</div>
 
-Repository: https://github.com/Luka-Ar/predictive-maintenance-copilot
+			<div style="margin-top:12px;">
+				<a href="https://github.com/Luka-Ar/predictive-maintenance-copilot" style="display:inline-block;padding:6px 12px;border-radius:999px;border:1px solid #f14c2f;background:#393636;color:#efebda;text-decoration:none;font-size:12px;">View Repository</a>
+			</div>
 
-Industrial AI platform that transforms sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended actions.
+			<div style="margin-top:12px;font-size:13px;">
+				Industrial AI platform transforming sensor data into failure-risk predictions, condition alerts, knowledge-grounded explanations, and recommended actions.
+			</div>
 
-<br/>
+			<div style="height:1px;background:#f14c2f;opacity:0.5;margin:14px 0;"></div>
 
-**System Capability Matrix**
+			<div style="margin-bottom:8px;font-weight:600;">Feature Badges</div>
+			<div>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">ML Engine</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">FastAPI</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Next.js</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Gemma</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">RAG</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">ChromaDB</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Alerts</span>
+				<span style="display:inline-block;margin:4px 6px 4px 0;padding:4px 10px;border-radius:999px;border:1px solid #f14c2f;font-size:12px;">Actions</span>
+			</div>
 
-ML Engine: Python · Scikit-learn
+			<div style="height:1px;background:#f14c2f;opacity:0.5;margin:14px 0;"></div>
 
-API Core: FastAPI
+			<div style="margin-bottom:8px;font-weight:600;">Capability Grid</div>
+			<table>
+				<tr>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Prediction Engine</td>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Scikit-learn</td>
+				</tr>
+				<tr>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">API Layer</td>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">FastAPI</td>
+				</tr>
+				<tr>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Dashboard</td>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Next.js</td>
+				</tr>
+				<tr>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Local LLM</td>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Gemma via Ollama</td>
+				</tr>
+				<tr>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Knowledge Store</td>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">ChromaDB</td>
+				</tr>
+				<tr>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Output Layer</td>
+					<td style="padding:6px 10px;border:1px solid #f14c2f;border-radius:8px;">Alerts + Actions</td>
+				</tr>
+			</table>
 
-Dashboard: Next.js
+			<div style="height:1px;background:#f14c2f;opacity:0.5;margin:14px 0;"></div>
 
-Local LLM: Gemma via Ollama
-
-RAG Store: ChromaDB
-
-Outputs: Alerts · Actions
-
-<br/>
-
-**Architecture Flow**
-
-Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Actionable Maintenance
+			<div style="font-weight:600;">Architecture Flow</div>
+			<div style="margin-top:6px;font-size:13px;">Sensor Signals → ML Risk Scoring → RAG Grounding → Local LLM Reasoning → Maintenance Actions</div>
+		</td>
+	</tr>
+</table>
 
 </div>
 
